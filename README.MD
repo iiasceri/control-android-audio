@@ -1,7 +1,3 @@
-/**********************\
-|         Nick         |
-\**********************/
-
 /-- Control your android phone audio from windows machine --\
 
 Install:
