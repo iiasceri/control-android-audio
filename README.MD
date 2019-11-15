@@ -7,7 +7,6 @@ Install:
 https://www.autohotkey.com/download/ahk-install.exe
 4) Double Click on andrVOL.ahk
 
-Run:
-*) To Control Volume hold CTRL + SHIFT
-*) then spam arrow key up for volume up,
-*) or spam arrow key down for volume down.
+To Control Volume hold CTRL + SHIFT
+1) Spam arrow key up for volume up,
+2) Spam arrow key down for volume down.
