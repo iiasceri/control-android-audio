@@ -3,8 +3,7 @@
 Install:
 1) Replace adb -s deviceID with your id (in my case deviceID is: 29f2e0d79805)
 2) Put .bat files in C:\
-3) Install AutoHotKey (click DOWN)
-https://www.autohotkey.com/download/ahk-install.exe
+3) Install AutoHotKey ([href=https://www.autohotkey.com/download/ahk-install.exe]click)
 4) Double Click on andrVOL.ahk
 
 To Control Volume hold CTRL + SHIFT
