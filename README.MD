@@ -1,4 +1,4 @@
-/-- Control your android phone audio from windows machine --\
+# Control your android phone audio from windows machine
 
 Install:
 1) Replace adb -s deviceID with your id (in my case deviceID is: 29f2e0d79805)
@@ -8,6 +8,6 @@ https://www.autohotkey.com/download/ahk-install.exe
 4) Double Click on andrVOL.ahk
 
 Run:
-To Control Volume hold CTRL + SHIFT
-then spam arrow key up for volume up,
-or spam arrow key down for volume down.
+*) To Control Volume hold CTRL + SHIFT
+*) then spam arrow key up for volume up,
+*) or spam arrow key down for volume down.
